@@ -3,7 +3,8 @@
 
 <details>
   <summary> solved.ac </summary>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dongchol801)](https://solved.ac/dongchol801)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dongchol801)](https://solved.ac/dongchol801)
 </details>
 
 <!--
