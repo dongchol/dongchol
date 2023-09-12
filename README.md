@@ -9,7 +9,7 @@
 <details>
   <summary> github stats </summary>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongchol&show_icons=true&theme=cobalt)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongchol&show_icons=true&theme=transparent)
 </details>
 
 <!--
