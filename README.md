@@ -1,10 +1,14 @@
-### Hi there 👋
+### Dongchol's Github  👋
 
 
 <details>
   <summary> solved.ac </summary>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dongchol801)](https://solved.ac/dongchol801)
+</details>
+<details>
+  <summary> github stats </summary>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongchol&show_icons=true&theme=cobalt)
 </details>
 
 <!--
