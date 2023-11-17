@@ -10,7 +10,7 @@
 ✨추구하는 역량
 - 기술 (framework -> property)
 - 기본 (algorithm -> implementation)
-- 검색 (공식문서 -> google, stackoverflow, 지식)
+- 검색 (knowledge -> google, stackoverflow, 공식문서)
 
   
 <details>
