@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=80&fontColor=#F4FFFF-nl-Dongchol's%20GitHub%20Profile&fontSize=20&fontColor=#F4FFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=80&fontColor=#F4FFFF&animation=fadeIn&fontAlignY=38&desc=Dongchol's%20GitHub%20Profile&fontSize=20&fontColor=#F4FFFF&descAlignY=51&descAlign=62)
 
 <details>
   <summary> solved.ac </summary>
