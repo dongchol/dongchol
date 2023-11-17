@@ -1,6 +1,4 @@
-### Dongchol's Github  👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!-nl-Dongchol's%20GitHub%20Profile&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=80&fontColor=#F4FFFF-nl-Dongchol's%20GitHub%20Profile&fontSize=20&fontColor=#F4FFFF)
 
 <details>
   <summary> solved.ac </summary>
